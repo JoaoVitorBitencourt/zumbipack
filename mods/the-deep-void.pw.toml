@@ -1,13 +1,13 @@
 name = "The Deep Void"
-filename = "the_deep_void-1.28-forge-1.20.1.jar"
+filename = "the_deep_void-1.94.1-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c44354cb0dd846136ed9f0a65dcd813e5f44bcb9"
+hash = "57c4243d78a7f024d938083ba3ec401120fdb366"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5788605
+file-id = 7006114
 project-id = 982999

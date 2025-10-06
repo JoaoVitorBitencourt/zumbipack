@@ -1,13 +1,13 @@
 name = "Item Scrapper"
-filename = "item_scrapper-1.2.5.jar"
+filename = "item_scrapper-1.2.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9bb0c308a99821682817786427a1d91ed3939de3"
+hash = "b445c7f79ebe0e45464c0251151465c7dcc6ac7d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6658532
+file-id = 6907691
 project-id = 1163529

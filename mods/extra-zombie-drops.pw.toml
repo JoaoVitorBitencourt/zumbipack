@@ -1,13 +1,13 @@
 name = "Extra Zombie Drops"
-filename = "better_mob_drops.jar"
+filename = "extra_zombie_drops-1.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bf3b9055bbe308dce2d29b4d295bad7225d3a7a1"
+hash = "8ca6422cac3f7067c0f2d8a5062fcd651c84ded6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5547168
+file-id = 6765912
 project-id = 822109
