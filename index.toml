@@ -10709,7 +10709,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+hash = "200f79b635a087841698c85ac7028f0a1fac2cc4ffae1d59ff3f07a94abfe70e"
 metafile = true
 
 [[files]]
@@ -10999,7 +10999,7 @@ metafile = true
 
 [[files]]
 file = "mods/void-fog.pw.toml"
-hash = "4c74a566c5e2e0dfb152fa7199fa2b75187cacd05d0f77d6018dcc36f07f45f7"
+hash = "44d0602e6fd8899391281eecd059c312b5033f7d998badd9389d93efd1a680d6"
 metafile = true
 
 [[files]]
