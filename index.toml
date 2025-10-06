@@ -10064,7 +10064,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "07ff1b204dc995bc655d37a29518f41b56569fe49df558eb71026d0dc1dc742e"
+hash = "cef2dd266eded7cbb430449fc697075a458849cbfe2514d836ef72d9141c09bb"
 metafile = true
 
 [[files]]
@@ -10124,7 +10124,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-sounds.pw.toml"
-hash = "48c8f5aef86181cdd2000b5c86b81f04b71e46748b0e175e5a38014c9d9771b9"
+hash = "d2c5baf299b699c373532877ac4f635e92a384674d9e79dd731723707985dbb4"
 metafile = true
 
 [[files]]
@@ -10364,7 +10364,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "e5650ca09fdb53d1c197b4b7d000c432a566c559381106edeee0e2abc2ce1cd0"
+hash = "7d73209261250e67cb69848a7031cca1757fcf026a8d0ad9ff3c803b8cb1ce58"
 metafile = true
 
 [[files]]
@@ -10519,7 +10519,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
-hash = "7c993c8854fa4a7510e886ada88f3070ccdfcf4ca199dda558a4f6b0318f0132"
+hash = "e5d5db5ca88b70620fee4cb4fa35511b15c91631cf77e6e7287811131c687a0e"
 metafile = true
 
 [[files]]
@@ -10659,7 +10659,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
 metafile = true
 
 [[files]]
@@ -10699,7 +10699,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "43c6d7667d61b4df81bff2358e967717faaac2ba73cab4c30690f0015a1fb8ce"
+hash = "4db2eb43158631db25b5ab33373ace850bbc8c7eaeae6135ea6414991b9e626a"
 metafile = true
 
 [[files]]
@@ -10899,7 +10899,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "ee2d9154be68ef20293596a3f65810111fd35a802f1e8292e9ba8872de463a14"
+hash = "01d628d71fd20a235492879b37853c2301066aee4234df0acd62c6990b319d26"
 metafile = true
 
 [[files]]
@@ -11041,10 +11041,6 @@ metafile = true
 file = "mods/zombie-infection-vaccine.pw.toml"
 hash = "0abcfba20fec6bd0d09a8408e7260a5260a4ff8b24b6529d7bb1978c4c2ebbe6"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "d53a26ff3a85888776d1c4fa7a3cb6cb93c9edb0d940484772b445b9b1c914d8"
 
 [[files]]
 file = "pointblanks/motor_recipe_cw_pack.zip"
