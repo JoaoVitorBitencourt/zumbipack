@@ -11052,12 +11052,12 @@ hash = "8ee778e31a6c4c800265fd6aa607b7d00effa68bdb7b0f594a3457558cd78e3d"
 
 [[files]]
 file = "resourcepacks/cubic-leaves.pw.toml"
-hash = "423c820c8c07f59e7737b79c9de7a2fc0a2cd7adf857d96aa8e138be4349c3d2"
+hash = "bd6661f94ad8a3e7e5f369dcc54e2eddadeedaea43c26e910ec17c177d5b8692"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "a8a5b310a327b30be69b526640abbd7f61300a0266cd1d62a8765058ad3e8dac"
+hash = "fbcacaccd3eedf13c88488e8c274e3b042f70dd9381a98333b32c122d7c8a785"
 metafile = true
 
 [[files]]

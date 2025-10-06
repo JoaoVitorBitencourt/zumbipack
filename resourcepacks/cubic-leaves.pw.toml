@@ -1,6 +1,6 @@
 name = "Cubic Leaves"
 filename = "Cubic Leaves 1.9 (performance).zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
