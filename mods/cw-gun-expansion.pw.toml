@@ -1,0 +1,13 @@
+name = "CW Gun Expansion"
+filename = "cw_additions-1.1.6b-RELEASE-1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "943bac6eaf5d99de18c9d17c36021b066ef86266"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5806696
+project-id = 693589

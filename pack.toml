@@ -1,0 +1,13 @@
+name = "Zumbipack"
+author = "João Vitor Bitencourt"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "02dc335bcd71bd65f1d63552b3b41170985b6ad28b1c0286ce84887c50556a1b"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

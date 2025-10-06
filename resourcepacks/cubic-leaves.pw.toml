@@ -1,0 +1,13 @@
+name = "Cubic Leaves"
+filename = "Cubic Leaves 1.6 (compat).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a9811cdad527abdd4076a8b1ef8041eac7c7951"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6465164
+project-id = 1252004

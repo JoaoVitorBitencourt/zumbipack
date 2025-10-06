@@ -1,0 +1,13 @@
+name = "Keerdm's Zombie Apocalypse Essentials"
+filename = "Keerdm Zombie Apocalypse Essentials (Vics) 1.41.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "94d9b56e38e87ded24dc36cd15889341adae3d72"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6565639
+project-id = 1061079

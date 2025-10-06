@@ -1,0 +1,13 @@
+name = "Deeper Void - CW"
+filename = "the_deeper_void-1.0.5-forge-1.20.1 [BUG FIX].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27fdb74a089a8bbd7ed19ceeaa615bc19ac5a052"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6559582
+project-id = 1196357
